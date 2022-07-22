@@ -83,7 +83,7 @@ Note:- Give a user details
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/UKG_LiZarD><b>UKG๛LiZarD</b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and 𝐌.𝐀.𝐗  will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. 𝐌.𝐀.𝐗 should have admin privillage.
