@@ -157,7 +157,7 @@ Helps you to know your ping 🚶🏼‍♂️
 • /ping - To get your ping.
 • /repo - Source Code.
 • /channel - Channel Details.
-• /ajax - Bot Link.
+• /max - Bot Link.
 <b>🏹Usage🏹 :</b>
 
 • This commands can be used in pms and groups
