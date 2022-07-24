@@ -29,7 +29,7 @@ async def start(client, message):
                 InlineKeyboardButton('𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙶𝚁𝙾𝚄𝙿', url=f"https://t.me/movie_world_grp")
             ]
             ]
-                reply_markup = InlineKeyboardMarkup(buttons)
+        reply_markup = InlineKeyboardMarkup(buttons)
 
         await client.send_sticker(chat_id=message.chat.id, sticker='CAACAgUAAxkBAAJc-GIfWR3hIR_5MRjwkOdkT41wrBcHAAIVAQACyJRkFGZEMKKnFWwTHgQ', reply_markup=reply_markup, reply_to_message_id=message.message_id)
 
