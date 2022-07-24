@@ -29,14 +29,22 @@ async def start(client, message):
                 InlineKeyboardButton('𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙶𝚁𝙾𝚄𝙿', url=f"https://t.me/movie_world_grp")
             ]
             ]
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await message.reply(script.PRIVATEBOT_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup)
-        await asyncio.sleep(2) # 😢 https://github.com/Aadhi000/Ajax-Extra-Features/blob/master/plugins/p_ttishow.py#L17 😬 wait a bit, before checking.
+                reply_markup = InlineKeyboardMarkup(buttons)
+
+        await client.send_sticker(chat_id=message.chat.id, sticker='CAACAgUAAxkBAAJc-GIfWR3hIR_5MRjwkOdkT41wrBcHAAIVAQACyJRkFGZEMKKnFWwTHgQ', reply_markup=reply_markup, reply_to_message_id=message.message_id)
+
+        await asyncio.sleep(60)
+
         if not await db.get_chat(message.chat.id):
+
             total=await client.get_chat_members_count(message.chat.id)
+
             await client.send_message(LOG_CHANNEL, script.LOG_TEXT_G.format(message.chat.title, message.chat.id, total, "Unknown"))       
+
             await db.add_chat(message.chat.id, message.chat.title)
-        return 
+
+        return
+        
     if not await db.is_user_exist(message.from_user.id):
         await db.add_user(message.from_user.id, message.from_user.first_name)
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
@@ -52,13 +60,38 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('𝙲𝚁𝙴𝙳𝙸𝚃𝚂 💫', url='https://t.me/UKG_LiZarD_bot')
         ]]         
-        reply_markup = InlineKeyboardMarkup(buttons)        
+        reply_markup = InlineKeyboardMarkup(buttons)
+
+        await message.reply_chat_action("typing")
+
+        m=await message.reply_sticker("CAACAgUAAxkBAAEO6RtiO7D4w8Paf-xsd4NCdvg8efiU1wACFQEAAsiUZBRmRDCipxVsEyME") 
+
+        await asyncio.sleep(2)
+
+        await m.delete()
+
+        await message.reply_chat_action("typing")
+
         await message.reply_photo(
+
             photo=random.choice(PICS),
+
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
+
             reply_markup=reply_markup,
+
             parse_mode='html'
+
         )
+
+        await message.reply_chat_action("Typing")
+
+        m=await message.reply_sticker("CAACAgUAAxkBAAEQ8XRiO8iXcdMUHwiie4V7IrblsmAAAQkAApwAA8iUZBRzjwAB89rFhfweBA") 
+
+        await asyncio.sleep(20)
+
+        await m.delete()
+
         return
     if AUTH_CHANNEL and not await is_subscribed(client, message):
         try:
