@@ -12,7 +12,29 @@ from database.connections_mdb import active_connection
 from utils import get_file_id, parser, split_quotes
 from info import ADMINS
 
+@Client.on_message(filters.regex("movie") | filters.regex("Movie") | filters.regex("MOVIE"))
 
+async def regex(client, message):
+
+    await message.reply_text("""‼️‼️ INSTRUCTIONS ‼️‼️
+
+    
+
+ℹ️ MOVIE REQUESTS IN THIS FORMATS ℹ️ 👇🏻
+
+<b>Pushpa ✅
+
+Pushpa 2021 ✅
+
+Pushpa Malayalam ✅</b>
+
+~~Pushpa Movie Link Undo ❌
+
+Pushpa File Send  ❌
+
+Pushpa Movie  ❌
+
+Pushpa Undo  ❌~~""")
 @Client.on_message(filters.command(['filter', 'add']) & filters.incoming)
 async def addfilter(client, message):
     userid = message.from_user.id if message.from_user else None
