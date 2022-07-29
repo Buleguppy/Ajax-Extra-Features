@@ -31,7 +31,7 @@ async def start(client, message):
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
 
-        await client.send_sticker(chat_id=message.chat.id, sticker='CAACAgUAAxkBAAJc-GIfWR3hIR_5MRjwkOdkT41wrBcHAAIVAQACyJRkFGZEMKKnFWwTHgQ', reply_markup=reply_markup, reply_to_message_id=message.message_id)
+        await client.send_sticker(chat_id=message.chat.id, sticker='CAACAgIAAxkBAAOxYuQAAdziClXl8NDR2ywHHWA1hKaQAAJUFgAC0HtBSfy5WNnzRlYoHgQ', reply_markup=reply_markup, reply_to_message_id=message.message_id)
 
         await asyncio.sleep(60)
 
@@ -64,7 +64,7 @@ async def start(client, message):
 
         await message.reply_chat_action("typing")
 
-        m=await message.reply_sticker("CAACAgUAAxkBAAEO6RtiO7D4w8Paf-xsd4NCdvg8efiU1wACFQEAAsiUZBRmRDCipxVsEyME") 
+        m=await message.reply_sticker("CAACAgIAAxkBAAOxYuQAAdziClXl8NDR2ywHHWA1hKaQAAJUFgAC0HtBSfy5WNnzRlYoHgQ") 
 
         await asyncio.sleep(2)
 
