@@ -757,7 +757,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply1 = await query.message.reply_text(
 
-            text="â–¢â–¢â–¢"
+            text="▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ 0%"
 
         )
 
@@ -765,7 +765,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
         reply2 = await reply1.edit_text(
 
-            text="â–£â–¢â–¢"
+            text="▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱ 50%"
 
         )
 
@@ -773,7 +773,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
         reply3 = await reply2.edit_text(
 
-            text="â–£â–£â–¢"
+            text="▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱ 75%"
 
         )
 
@@ -781,7 +781,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
         reply4 = await reply3.edit_text(
 
-            text="â–£â–£â–£"
+            text="▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 100%"
 
         )
 
