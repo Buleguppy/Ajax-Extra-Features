@@ -58,6 +58,8 @@ async def start(client, message):
             InlineKeyboardButton('𝑯𝑬𝑳𝑷 ℹ️', callback_data='help'),
             InlineKeyboardButton('𝑨𝑩𝑶𝑼𝑻 🤠', callback_data='about')
             ],[
+            InlineKeyboardButton('🔍 𝚂𝙴𝙰𝚁𝙲𝙷 𝙷𝙴𝚁𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 🔎', switch_inline_query_current_chat=''),
+            ],[
             InlineKeyboardButton('𝙲𝚁𝙴𝙳𝙸𝚃𝚂 💫', url='https://t.me/UKG_LiZarD_bot')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -125,6 +127,8 @@ async def start(client, message):
             ],[      
             InlineKeyboardButton('𝑯𝑬𝑳𝑷 ℹ️', callback_data='help'),
             InlineKeyboardButton('𝑨𝑩𝑶𝑼𝑻 🤠', callback_data='about')
+            ],[
+            InlineKeyboardButton('🔍 𝚂𝙴𝙰𝚁𝙲𝙷 𝙷𝙴𝚁𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 🔎', switch_inline_query_current_chat=''),
             ],[
             InlineKeyboardButton('𝙲𝚁𝙴𝙳𝙸𝚃𝚂 💫', url='https://t.me/UKG_LiZarD_bot')
         ]]
