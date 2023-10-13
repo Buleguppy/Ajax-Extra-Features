@@ -6,19 +6,18 @@ class script(object):
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: @UKG_LiZarD_bot ."""
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: @LiZarD_amc ."""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝐌.𝐀.𝐗</b>
-<b>✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/UKG_LiZarD_bot>UKG๛LiZarD</a></b>
-<b>✮ 𝙰𝚂𝚂𝙸𝚂𝚃𝙰𝙽𝚃 : <a href=https://t.me/UKG_blackstriker001>𝑨𝑻𝑯𝑼𝑳</a></b>
+    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝐍𝐀𝐌𝐈</b>
+<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/LiZarD_amc>𝗟𝗶𝗭𝗮𝗿𝗗</a></b>
 <b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 <b>✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
-<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/movie_world_links>๓✿vÏ㉫ Ŵ✿rしd [ LINKS ]</a></b>
-<b>✮ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃: <a href=https://t.me/movie_world_grp>𝑴𝑶𝑽𝑰𝑬 𝑾𝑶𝑹𝑳𝑫</a></b>"""
+<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/planet_movies_nami_updates>𝐍𝐀𝐌𝐈 𝐔𝐏𝐃𝐀𝐓𝐄𝐒</a></b>
+<b>✮ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃: <a href=https://t.me/planet_movies_grp>🎬 𝗣𝗟𝗔𝗡𝗘𝗧 𝗠𝗢𝗩𝗜𝗘𝗦🍿</a></b>"""
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
@@ -30,7 +29,7 @@ class script(object):
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/AboutAadhi><b>ꪖꪖᦔꫝỉ</b></a> ᚛━━━━━━━━━━━━
+━━━━━━━━━━━━᚜ <a href=https://t.me/LiZarD_amc><b>𝗟𝗶𝗭𝗮𝗿𝗗</b></a> ᚛━━━━━━━━━━━━
 
 ›› <b>𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b>
 
@@ -41,7 +40,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐀𝐧𝐝 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/AboutAadhi><b>ꪖꪖᦔꫝỉ</b></a> ᚛━━━━━━━━━━━━"""
+━━━━━━━━━━━━᚜ <a href=https://t.me/LiZarD_amc><b>𝗟𝗶𝗭𝗮𝗿𝗗</b></a> ᚛━━━━━━━━━━━━"""
     PROMOTION_TXT = """<b>〄 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧 〄</b>
 
 ⪼ <b>𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐖𝐡𝐢𝐜𝐡 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐏𝐫𝐨𝐦𝐨𝐭𝐞 . 
@@ -51,7 +50,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐀𝐧𝐝 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/AboutAadhi><b>ꪖꪖᦔꫝỉ</b></a> ᚛━━━━━━━━━━━━""" 
+━━━━━━━━━━━━᚜ <a href=https://t.me/LiZarD_amc><b>𝗟𝗶𝗭𝗮𝗿𝗗</b></a> ᚛━━━━━━━━━━━━""" 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
 <b>𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...//</b>
@@ -66,7 +65,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 
 <code>USE THE CORRECT FORMATE EXAMPLE ›› /batch link1 link2</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/UKG_LiZarD><b>UKG๛LiZarD</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/LiZarD_amc><b>𝗟𝗶𝗭𝗮𝗿𝗗</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
@@ -83,13 +82,13 @@ Note:- Give a user details
   
 
 
-<b>𝙰𝚂𝚂𝙸𝚂𝚃𝙰𝙽𝚃 𝙿𝚁𝙾 𝙷𝙴𝙻𝙿𝙴𝚁 <a href=https://t.me/UKG_blackstriker001>𝙰𝚃𝙷𝚄𝙻</a></b>
+<b>𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/LiZarD_amc>𝗟𝗶𝗭𝗮𝗿𝗗</a></b>
 
 <b>𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝚄𝚂</b>
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/UKG_LiZarD_bot><b>UKG๛LiZarD</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/LiZarD_amc><b>𝗟𝗶𝗭𝗮𝗿𝗗</b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and 𝐌.𝐀.𝐗  will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and 𝐍𝐀𝐌𝐈  will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. 𝐌.𝐀.𝐗 should have admin privillage.
@@ -111,7 +110,7 @@ Note:- Give a user details
 
 𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/UKG_LiZarD>UKG๛LiZarD</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/LiZarD_amc>𝗟𝗶𝗭𝗮𝗿𝗗</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
 
@@ -180,7 +179,7 @@ Do as you wish with telegra.ph module!
 <b>›› 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝙰 𝙱𝙾𝚃 𝚂𝙰𝙼𝙴 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂</b>
 <b>›› 𝚆𝙸𝚃𝙷 𝙰𝙻𝙻 𝚈𝙾𝚄𝚁 𝙲𝚁𝙴𝙳𝙸𝚃𝚂</b>
 <b>›› 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁𝚂𝙷𝙸𝙿</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/UKG_LiZarD_bot>UKG๛LiZarD</a></b>"""
+<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/LiZarD_amc>𝗟𝗶𝗭𝗮𝗿𝗗</a></b>"""
 
     JSON_TXT ="""<b>JSON:</b>
 
@@ -212,7 +211,7 @@ Delete A Lot Of Messages From Groups!
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/MWUpdatez)</code>
+<code>[Button Text](buttonurl:https://t.me/planet_movies_grp)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -226,7 +225,7 @@ Delete A Lot Of Messages From Groups!
 <b>›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
 <b>›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
 
-<b>𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/UKG_LiZarD_bot>UKG๛LiZarD</a></b>"""
+<b>𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/LiZarD_amc>𝗟𝗶𝗭𝗮𝗿𝗗</a></b>"""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
@@ -319,10 +318,10 @@ This module only works for my admins
 𝘠𝘰𝘶 𝘊𝘢𝘯 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘈𝘯𝘺 𝘝𝘪𝘥𝘦𝘰 𝘍𝘳𝘰𝘮 𝘠𝘰𝘶𝘵𝘶𝘣𝘦
 
 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://youtu.be/kB9TkCs8cX0)
+• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://youtu.be/GX8Hg6kWQYI?si=sJairmMV907EVNCf)
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/mp4 https://youtu.be/kB9TkCs8cX0</code>
-<code>/video https://youtu.be/kB9TkCs8cX0</code>"""
+<code>/mp4 https://youtu.be/GX8Hg6kWQYI?si=sJairmMV907EVNCf</code>
+<code>/video https://youtu.be/GX8Hg6kWQYI?si=sJairmMV907EVNCf</code>"""
 
     ZOMBIES_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙺𝙸𝙲𝙺 𝚄𝚂𝙴𝚁𝚂
 
@@ -343,7 +342,7 @@ This module only works for my admins
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/UKG_LiZarD_bot>UKG๛LiZarD</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/LiZarD_amc>𝗟𝗶𝗭𝗮𝗿𝗗</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
