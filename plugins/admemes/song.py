@@ -49,7 +49,7 @@ def song(client, message):
         open(thumb_name, 'wb').write(thumb.content)
 
 
-        performer = f"[✮ 𝐌.𝐀.𝐗 ✮]" 
+        performer = f"[✮ 𝐍𝐀𝐌𝐈 ✮]" 
         duration = results[0]["duration"]
         url_suffix = results[0]["url_suffix"]
         views = results[0]["views"]
@@ -66,7 +66,7 @@ def song(client, message):
             info_dict = ydl.extract_info(link, download=False)
             audio_file = ydl.prepare_filename(info_dict)
             ydl.process_info(info_dict)
-        rep = '**𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 ›› [𝚄𝙿𝙳𝙰𝚃𝙴𝚂](https://t.me/movie_world_links)**\n**𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ›› [๓✿vÏ㉫ Ŵ✿rしd](https://t.me/movie_world_grp)**'
+        rep = '**𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 ›› [🎬 𝗣𝗟𝗔𝗡𝗘𝗧 𝗠𝗢𝗩𝗜𝗘𝗦🍿](https://t.me/planet_movies_grp)**\n**𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ›› [𝐍𝐀𝐌𝐈](https://t.me/planet_movies_nami_updates)**'
         secmul, dur, dur_arr = 1, 0, duration.split(':')
         for i in range(len(dur_arr)-1, -1, -1):
             dur += (int(dur_arr[i]) * secmul)
