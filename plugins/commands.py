@@ -26,7 +26,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙶𝚁𝙾𝚄𝙿', url=f"https://t.me/movie_world_grp")
+                InlineKeyboardButton('🍿 𝑶𝑭𝑭𝑰𝑪𝑰𝑨𝑳 𝑮𝑹𝑶𝑼𝑷 🎬', url=f"https://t.me/planet_movies_grp")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -50,19 +50,19 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('× ᗩᗪᗪ ᗰE TO YOᑌE GᖇOᑌᑭ ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('× 𝑨𝑫𝑫 𝑴𝑬 𝑻𝑶 𝒀𝑶𝑼𝑹 𝑮𝑹𝑶𝑼𝑷 ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton(' 𝑮𝑹𝑶𝑼𝑷 💬', url='https://t.me/movie_world_grp'),
-            InlineKeyboardButton('𝑼𝑷𝑫𝑨𝑻𝑬𝑺 📢', url='https://t.me/movie_world_links')
+            InlineKeyboardButton(' 𝑴𝑶𝑽𝑰𝑬 𝑮𝑹𝑶𝑼𝑷 🎬', url='https://t.me/planet_movies_grp'),
+            InlineKeyboardButton('𝑼𝑷𝑫𝑨𝑻𝑬𝑺 📢', url='https://t.me/planet_movies_links')
             ],[      
-            InlineKeyboardButton('𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙳𝚅𝚂 💬', url='https://t.me/UKG_LiZarD_bot')
+            InlineKeyboardButton('𝑪𝑶𝑵𝑻𝑨𝑪𝑻 𝑫𝑬𝑽 💬', url='https://t.me/LiZarD_amc')
             ],[
             InlineKeyboardButton('𝑯𝑬𝑳𝑷 ℹ️', callback_data='help'),
             InlineKeyboardButton('𝑨𝑩𝑶𝑼𝑻 🤠', callback_data='about')
             ],[
-            InlineKeyboardButton('🔍 𝚂𝙴𝙰𝚁𝙲𝙷 𝙷𝙴𝚁𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 🔎', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🔍 𝑺𝑬𝑨𝑹𝑪𝑯 𝑯𝑬𝑹𝑬 𝑴𝑶𝑽𝑰𝑬𝑺 🔎', switch_inline_query_current_chat=''),
             ],[
-            InlineKeyboardButton('𝙲𝚁𝙴𝙳𝙸𝚃𝚂 💫', url='https://t.me/UKG_LiZarD_bot')
+            InlineKeyboardButton('𝑪𝑹𝑬𝑫𝑰𝑻 💫', url='https://t.me/LiZarD_amc')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)
 
@@ -122,19 +122,19 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('× ᗩᗪᗪ ᗰE TO YOᑌE GᖇOᑌᑭ ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('× 𝑨𝑫𝑫 𝑴𝑬 𝑻𝑶 𝒀𝑶𝑼𝑹 𝑮𝑹𝑶𝑼𝑷 ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('𝑮𝑹𝑶𝑼𝑷 💬', url='https://t.me/movie_world_grp'),
-            InlineKeyboardButton('𝑼𝑷𝑫𝑨𝑻𝑬𝑺 📢', url='https://t.me/movie_world_links')
+            InlineKeyboardButton('𝑴𝑶𝑽𝑰𝑬 𝑮𝑹𝑶𝑼𝑷 🎬', url='https://t.me/planet_movies_grp'),
+            InlineKeyboardButton('𝑼𝑷𝑫𝑨𝑻𝑬𝑺 📢', url='https://t.me/planet_movies_links')
             ],[      
-            InlineKeyboardButton('𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙳𝚅𝚂 💬', url='https://t.me/UKG_LiZarD_bot')
+            InlineKeyboardButton('𝑪𝑶𝑵𝑻𝑨𝑪𝑻 𝑫𝑬𝑽 💬', url='https://t.me/LiZarD_amc')
             ],[
             InlineKeyboardButton('𝑯𝑬𝑳𝑷 ℹ️', callback_data='help'),
             InlineKeyboardButton('𝑨𝑩𝑶𝑼𝑻 🤠', callback_data='about')
             ],[
-            InlineKeyboardButton('🔍 𝚂𝙴𝙰𝚁𝙲𝙷 𝙷𝙴𝚁𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 🔎', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🔍 𝑺𝑬𝑨𝑹𝑪𝑯 𝑯𝑬𝑹𝑬 𝑴𝑶𝑽𝑰𝑬𝑺 🔎', switch_inline_query_current_chat=''),
             ],[
-            InlineKeyboardButton('𝙲𝚁𝙴𝙳𝙸𝚃𝚂 💫', url='https://t.me/UKG_LiZarD_bot')
+            InlineKeyboardButton('𝑪𝑹𝑬𝑫𝑰𝑻 💫', url='https://t.me/LiZarD_amc')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
