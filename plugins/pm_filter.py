@@ -745,19 +745,19 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('× ᗩᗪᗪ ᗰE TO YOᑌE GᖇOᑌᑭ ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('× 𝑨𝑫𝑫 𝑴𝑬 𝑻𝑶 𝒀𝑶𝑼𝑹 𝑮𝑹𝑶𝑼𝑷 ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('𝑮𝑹𝑶𝑼𝑷 💬', url='https://t.me/movie_world_grp'),
-            InlineKeyboardButton('𝑼𝑷𝑫𝑨𝑻𝑬𝑺 📢', url='https://t.me/movie_world_links')
+            InlineKeyboardButton('𝑴𝑶𝑽𝑰𝑬 𝑮𝑹𝑶𝑼𝑷 💬', url='https://t.me/planet_movies_grp'),
+            InlineKeyboardButton('𝑼𝑷𝑫𝑨𝑻𝑬𝑺 📢', url='https://t.me/planet_movies_links')
             ],[
-            InlineKeyboardButton('𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙳𝚅𝚂 💬', url='https://t.me/UKG_LiZarD_bot')
+            InlineKeyboardButton('𝑪𝑶𝑵𝑻𝑨𝑪𝑻 𝑫𝑬𝑽 💬', url='https://t.me/LiZarD_amc')
             ],[      
             InlineKeyboardButton('𝑯𝑬𝑳𝑷 ℹ️', callback_data='help'),
             InlineKeyboardButton('𝑨𝑩𝑶𝑼𝑻 🤠', callback_data='about')
             ],[
-            InlineKeyboardButton('🔍 𝚂𝙴𝙰𝚁𝙲𝙷 𝙷𝙴𝚁𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 🔎', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🔍 𝑺𝑬𝑨𝑹𝑪𝑯 𝑯𝑬𝑹𝑬 𝑴𝑶𝑽𝑰𝑬𝑺 🔎', switch_inline_query_current_chat=''),
             ],[
-            InlineKeyboardButton('𝙲𝚁𝙴𝙳𝙸𝚃𝚂 💫', url='https://t.me/UKG_LiZarD_bot')
+            InlineKeyboardButton('𝑪𝑹𝑬𝑫𝑰𝑻 💫', url='https://t.me/LiZarD_amc')
         ]]
         reply1 = await query.message.reply_text(
 
@@ -1018,7 +1018,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('♥️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ♥️', url='https://t.me/movie_world_grp')
+            InlineKeyboardButton('♥️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ♥️', url='https://t.me/planet_movies_nami_updates')
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝙲𝙻𝙾𝚂𝙴 🔐', callback_data='close_data')
