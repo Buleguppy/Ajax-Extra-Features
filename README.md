@@ -1,4 +1,4 @@
-<<p align="center">
+<p align="center">
   <img src="https://telegra.ph/file/b779334e2ec1a8b226a1b.jpg" alt="Ajax-Extra-Features Logo">
 </p>
 
