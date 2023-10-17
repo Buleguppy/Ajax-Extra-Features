@@ -1,8 +1,11 @@
-<p align="center">
-  <img src="assetssrc="assets/AJAX.png/AJAX.png" alt="Ajax-Extra-FeaturesLogo">
+<<p align="center">
+  <img src="https://telegra.ph/file/b779334e2ec1a8b226a1b.jpg" alt="Ajax-Extra-Features Logo">
+</p>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐍𝐀𝐌𝐈+𝐄𝐗𝐓𝐑𝐀+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒!;𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+𝐋𝐈𝐙𝐀𝐑𝐃;𝐀+𝐒𝐈𝐌𝐏𝐋𝐄+𝐀𝐍𝐃+𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋+𝐀𝐔𝐓𝐎𝐅𝐈𝐋𝐓𝐄𝐑+𝐆𝐑𝐎𝐔𝐏+𝐌𝐀𝐍𝐀𝐆𝐄𝐑+𝐁𝐎𝐓!;𝐒𝐏𝐄𝐂𝐈𝐀𝐋+𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐋𝐈𝐙𝐀𝐑𝐃!)
 </p>
 <h1 align="center">
-  <b>𝙰𝙹𝙰𝚇-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
+  <b>𝐍𝐀𝐌𝐈-𝐄𝐗𝐓𝐑𝐀-𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒</b>
 </h1>
 
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
