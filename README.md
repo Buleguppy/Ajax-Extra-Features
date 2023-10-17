@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/AJAX.png" alt="Ajax-Extra-FeaturesLogo">
+  <img src="assetssrc="assets/AJAX.png/AJAX.png" alt="Ajax-Extra-FeaturesLogo">
 </p>
 <h1 align="center">
   <b>𝙰𝙹𝙰𝚇-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
@@ -111,5 +111,5 @@ python3 bot.py
 * /broadcast - to broadcast a message to all Ajax users
 ```
 
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/Aadhi011)</b>                                                                                                                                                                                     
-<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐳](https://t.me/MWUpdatez)</b>
+<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐋𝐈𝐙𝐀𝐑𝐃](https://t.me/lizard_amc)</b>                                                                                                                                                                                     
+<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [🎬 𝗣𝗟𝗔𝗡𝗘𝗧 𝗠𝗢𝗩𝗜𝗘𝗦🍿](https://t.me/planet_movies_links)</b>
