@@ -1,22 +1,17 @@
 <p align="center">
-  <img src="https://telegra.ph/file/b779334e2ec1a8b226a1b.jpg" alt="Ajax-Extra-Features Logo">
+  <img src="https://telegra.ph/file/b779334e2ec1a8b226a1b.jpg" alt="NamiI-Extra-Features Logo">
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐍𝐀𝐌𝐈+𝐄𝐗𝐓𝐑𝐀+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒!;𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+𝐋𝐈𝐙𝐀𝐑𝐃;𝐀+𝐒𝐈𝐌𝐏𝐋𝐄+𝐀𝐍𝐃+𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋+𝐀𝐔𝐓𝐎𝐅𝐈𝐋𝐓𝐄𝐑+𝐆𝐑𝐎𝐔𝐏+𝐌𝐀𝐍𝐀𝐆𝐄𝐑+𝐁𝐎𝐓!;𝐒𝐏𝐄𝐂𝐈𝐀𝐋+𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐋𝐈𝐙𝐀𝐑𝐃!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐍𝐀𝐌𝐈+𝐁𝐎𝐓+𝐕𝟐!;𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+𝐋𝐈𝐙𝐀𝐑𝐃;𝐈+𝐀𝐌+𝐀+𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋+𝐀𝐔𝐓𝐎𝐅𝐈𝐋𝐓𝐄𝐑!;𝐀𝐍𝐃+𝐆𝐑𝐎𝐔𝐏+𝐌𝐀𝐍𝐀𝐆𝐄𝐑+𝐁𝐎𝐓!;𝐒𝐏𝐄𝐂𝐈𝐀𝐋+𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐋𝐈𝐙𝐀𝐑𝐃!)
 </p>
 <h1 align="center">
   <b>𝐍𝐀𝐌𝐈-𝐄𝐗𝐓𝐑𝐀-𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒</b>
 </h1>
 
-<a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
 
+# NAMI-EXTRA-FEATURES
+private source code not public
 
-[![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/stargazers)
-[![Forks](https://img.shields.io/github/forks/Aadhi000/Ajax-Extra-Features?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax-Extra-Features/fork)
-[![Size](https://img.shields.io/github/repo-size/Aadhi000/Ajax-Extra-Features?style=flat-square&color=red)](https://github.com/Aadhi000/Ajax-Extra-Features)   
-[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Aadhi000/Ajax-Extra-Features)   
-[![Contributors](https://img.shields.io/github/contributors/Aadhi000/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/graphs/contributors)
 ## Features
 
 - [x] Auto Filter
